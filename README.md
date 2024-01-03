@@ -9,4 +9,4 @@ so I created this simple kind of pass generator specifically to save my life.
 
 **Preview:** https://codepen.io/lauragrassig/pen/BaLMMob
 
-![Image Generator](https://i.ibb.co/fXJ1Qgn/testee.png)
+![image](https://github.com/PauloDavisr1/Gerador-de-senha/assets/96534390/5c0730eb-d6c2-4596-b315-56d38b1c1bcc)
