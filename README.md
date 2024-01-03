@@ -1,13 +1,12 @@
-# Password Generator 
-Make your simple password stronger 💪 
+# Gerador de senhas
+Torne sua senha simples mais forte 💪 
 
 
-I never liked password generators because they're impossible to remember afterwards.. 
-so I created this simple kind of pass generator specifically to save my life.
+Um simples gerador de senhas que cria uma nova senha 
+com base em palavras de sua escolha.
 
-**Date**: january/2021
+**Date**: january/2024
 
-//**Preview:** https://codepen.io/lauragrassig/pen/BaLMMob
 
 ![Image Generator](https://github.com/PauloDavisr1/Gerador-de-senha/assets/96534390/b5425c69-ff62-48ce-964e-5312770c44b9)
 
