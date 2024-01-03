@@ -10,4 +10,3 @@ so I created this simple kind of pass generator specifically to save my life.
 **Preview:** https://codepen.io/lauragrassig/pen/BaLMMob
 
 ![image](https://github.com/PauloDavisr1/Gerador-de-senha/assets/geradorPrint)
-![Image Generator](https://i.ibb.co/fXJ1Qgn/testee.png)
