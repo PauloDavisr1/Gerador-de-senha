@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Gerador de senha</title>
+
+  <link rel="stylesheet" type="text/css" href="src/assets/css/style.css">
+</head>
+<body>
+  
+  <div class="container">
+    <h1>Faça sua senha forte</h1>
+    <div class="password__content">
+      <div class="password__content--flex">
+        <input id="input" type="text" class="password__content--input" maxlength="20">
+        <button id="button" onclick="generatePass()" class="password__content--button">Vai</button>
+      </div>
+      <div class="password__content--checkbox">
+        <input type="checkbox" id="letterToNumber" name="" value="">
+        <label for="letterToNumber"><span class="never-select">Converter algumas letras para número</span></label>
+      </div>
+      <div class="password__content--checkbox">
+        <input type="checkbox" id="enableUpperCase" name="" value="">
+        <label for="enableUpperCase"><span class="never-select">Habilitar letras maiúsculas aleatórias</span></label>
+      </div>
+      <div class="password__content--result">
+        <span id="result"></span>
+        <button id="copyButton" onclick="copyResult()">Copiar</button>
+      </div>
+      <div id="copied" class="password__content--copied">
+        copied
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="title">
+      Feito por Paulo_davisr
+    </div>
+    <div class="sub">
+     <a href="https://www.instagram.com/paulo_davisr/" target=”_blank”>instagram: paulo_davisr</a>
+     <span>|</span>
+     <a href="https://twitter.com/DavisrPaulo" target=”_blank”> twitter: DavisrPaulo</a>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="javascript.js"></script> 
+</body>
+</html>
